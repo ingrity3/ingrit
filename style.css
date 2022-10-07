@@ -1,1 +1,18 @@
-
+body{
+    background-color:palevioletred ;
+    }
+    
+    Estilizar o título principal do seu site
+     h1{
+    color:black ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    background: ;
+    }
+    
+    Estilizar os parágrafos
+    p{
+    color:black ;
+    font-family: ;
+    font-size: ;
+    background: ;
+    }
