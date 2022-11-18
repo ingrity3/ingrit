@@ -2,14 +2,13 @@ body{
     background-color: rgb(255, 127, 202) ;
     }
     
-    Estilizar o título principal do seu site
+   
      h1{
     color:rgb(0, 0, 0) ;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     background:pink ;
     }
-    
-    Estilizar os parágrafos
+   
     p{
     color:rgb(0, 0, 0) ;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
